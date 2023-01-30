@@ -1,9 +1,9 @@
-project = "playground-s-11-ef54c3"
+project = "	nitor-tes"
 
-location = "asia-northeast1"
+location = "us-central1-a"
 
-gcr_region = "asia"
+gcr_region = "us-central1"
 
-github_owner = "sc13912"
+github_owner = "Sushil-Ohol-Personel"
 
 github_repository = "cloudrun-demo-app"
